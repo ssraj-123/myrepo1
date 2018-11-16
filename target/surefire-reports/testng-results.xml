@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="99001" started-at="2018-11-16T07:43:15Z" finished-at="2018-11-16T07:44:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="99001" started-at="2018-11-16T07:43:15Z" finished-at="2018-11-16T07:44:54Z">
+      <class name="com.actions.demo.ActionsDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.actions.demo.ActionsDemo@7f63425a]" name="setup" is-config="true" duration-ms="34016" started-at="2018-11-16T13:13:15Z" finished-at="2018-11-16T13:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="dragFunction()[pri:0, instance:com.actions.demo.ActionsDemo@7f63425a]" name="dragFunction" duration-ms="64948" started-at="2018-11-16T13:13:49Z" finished-at="2018-11-16T13:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragFunction -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.actions.demo.ActionsDemo@7f63425a]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-11-16T13:14:54Z" finished-at="2018-11-16T13:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.actions.demo.ActionsDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
